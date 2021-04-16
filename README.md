@@ -1,9 +1,13 @@
 ### Hi there, I am Neha 👋
+### I am a Software Engineer, currently living in Malaysia.
 
 - 🔭 I’m currently working on JavaScript/TypeScript.
 - 🌱 I’m currently learning React Native.
 - ⚡ Fun fact: I do Fashion blogging in my free time.
 - 😎 Feel free to checkout my instagram: @urbanragazza
+
+
+
 
 
 <!--
@@ -19,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 -->
