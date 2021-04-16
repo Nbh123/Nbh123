@@ -1,6 +1,9 @@
 ### Hi there, I am Neha 👋
 
-
+- 🔭 I’m currently working on JavaScript/TypeScript.
+- 🌱 I’m currently learning React Native.
+- ⚡ Fun fact: I do Fashion blogging in my free time.
+- 😎 Feel free to checkout my instagram: @urbanragazza
 
 
 <!--
