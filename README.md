@@ -2,7 +2,7 @@
 ### I am a Software Engineer, currently living in Malaysia.
 
 - 🔭 I’m currently working on JavaScript/TypeScript, Java.
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m also learning React Native (if I get some time from work).
 - ⚡ Fun fact: I do Fashion blogging in my free time.
 
 
