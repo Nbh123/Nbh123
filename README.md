@@ -1,8 +1,7 @@
 ### Hi there, I am Neha 👋
 ### I am a Software Engineer, currently living in Malaysia.
 
-- 🔭 I’m currently working on JavaScript/TypeScript, Java.
-- 🌱 I’m also learning React Native (if I get some time from work).
+- 🔭 I’m currently working on JavaScript/TypeScript, React, Angular and, Node, Java.
 - ⚡ Fun fact: I do Fashion blogging in my free time.
 
 
